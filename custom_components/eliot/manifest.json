@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "documentation": "https://github.com/yourname/eliot_desk_hass",
   "requirements": [
-    "bleak==0.22.3"
+    "bleak>=1.0.0,<2.0"
   ],
   "dependencies": ["bluetooth"],
   "codeowners": ["@yourgithub"],
